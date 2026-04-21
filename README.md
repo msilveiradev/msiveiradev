@@ -1,6 +1,6 @@
 # Olá, eu sou Manuel! 👋
 
-Atualmente estou focao em desenvolver projetos modernos com **HTML, CSS (Tailwind) e JavaScript**. 
+Atualmente estou focado em desenvolver projetos modernos com **HTML, CSS (Tailwind) e JavaScript**. 
 
 ### 🛠 Tecnologias que utilizo:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
