@@ -10,8 +10,5 @@ Atualmente estou focao em desenvolver projetos modernos com **HTML, CSS (Tailwin
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Meus Projetos Recentes:
-* [🛡️ Gerador de Senhas](link-do-seu-repositorio-de-ontem) - Um app seguro feito com Tailwind e JS.
+* [🛡️ Gerador de Senhas]([link-do-seu-repositorio-de-ontem](https://github.com/msilveiradev/gerador-de-senhas)) - Um app seguro feito com Tailwind e JS.
 
-### 📫 Como me encontrar:
-* [LinkedIn](seu-link-aqui)
-* [Instagram](seu-link-aqui)
